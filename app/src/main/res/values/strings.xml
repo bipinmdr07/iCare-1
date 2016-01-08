@@ -1,4 +1,20 @@
 <resources>
     <string name="app_name">iCare</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="lists">
+        <item name = "food"> Foods</item>
+        <item name="drink"> Drinks</item>
+        <item name="body">Body</item>
+    </string-array>
+
+    <string-array name="nav_drawer_icon">
+        <item>@drawable/food</item>
+        <item>@drawable/drinks</item>
+        <item>@drawable/body</item>
+    </string-array>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="action_websearch">Search</string>
 </resources>
